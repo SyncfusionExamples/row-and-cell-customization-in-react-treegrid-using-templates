@@ -1,0 +1,14 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+
+.e-treegrid .template td{
+    border-color: #e0e0e0;
+    border: 1px solid #e0e0e0;
+    border-width: 1px 0 0 0;
+    padding: 0 15px 0 20px;
+}
+
+.e-treegrid .template img{
+    height: 60px;
+    border-radius: 50px;
+    margin-left: 20px;
+}
