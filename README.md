@@ -7,7 +7,6 @@ This quick-start repository demonstrates how to customize rows and cells in a Re
 It includes example code showing how to inject custom templates for row details, modify cell content and styles, and apply conditional formatting.
 
 ## Features
-
 - Demonstrates Detail template usage in treegrid
 - Demonstarte customization of cells in the row
 - Demonstrates customization of conditional based rendering of rows
