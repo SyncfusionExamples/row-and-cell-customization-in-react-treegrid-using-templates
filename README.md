@@ -1,10 +1,10 @@
 # Row and Cell Customization in React TreeGrid Using Templates
 
 ## Repository Description
-This quick-start repository demonstrates how to customize rows and cells in a React TreeGrid using templates. 
+This quick-start repository demonstrating customize rows and cells in a React TreeGrid using templates. 
 
 ## Overview 
-It includes example code showing how to inject custom templates for row details, modify cell content and styles, and apply conditional formatting.
+It includes example code explaining inject custom templates for row details, modify cell content and styles, and apply conditional formatting.
 
 ## Features
 - Demonstrates Detail template usage in treegrid
@@ -44,3 +44,8 @@ Explore Syncfusion EJ2 TreeGrid Detail template examples:
 https://ej2.syncfusion.com/react/demos/#/fluent2/treegrid/detail-template
 
 https://ej2.syncfusion.com/react/demos/#/fluent2/treegrid/row-template
+
+## Documentation
+ 
+For detailed information and configuration options:
+https://ej2.syncfusion.com/react/documentation/treegrid/row/detail-template
