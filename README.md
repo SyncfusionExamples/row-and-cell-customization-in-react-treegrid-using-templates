@@ -1,15 +1,51 @@
 # Row and Cell Customization in React TreeGrid Using Templates
 
-A quick-start project that helps you to customize rows in a react tree grid using templates. This project also contains simple code to customize the styles of the rows and cells.
+## Repository Description
+This quick-start repository demonstrating customize rows and cells in a React TreeGrid using templates. 
 
-Documentation: https://ej2.syncfusion.com/react/documentation/treegrid/row/
+## Overview 
+This sample code demonstrates enhancements to a TreeGrid through custom templates for row and cell rendering, dynamic content and style modifications, and the use of conditional logic to control visual formatting.
 
-Online examples: https://ej2.syncfusion.com/react/demos/#/material/treegrid/detail-template
+## Features
+- Demonstrates Detail template usage in treegrid
+- Demonstarte customization of cells in the row
+- Demonstrates customization of conditional based rendering of rows
 
 ## Project prerequisites
 
-Make sure that you have the lastest versions of NodeJS and visual studio code in your machine before starting to work on this project.
+Before starting, ensure you have the following installed:
+- **Node.js**: Latest stable version
+- **Visual Studio Code**: Latest version recommended
+- **npm**: Node Package Manager (included with Node.js)
+- Basic knowledge of React and JavaScript
 
-## How to run this application?
+## Installation
 
-To run this application, you need to clone the `row-and-cell-customization-in-react-treegrid-using-templates` repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using `npm install` command and run your project using the `npm start` command.
+Clone and set up the project:
+
+```
+git clone https://github.com/your-org/row-and-cell-customization-in-react-treegrid-using-templates.git
+cd row-and-cell-customization-in-react-treegrid-using-templates
+npm install
+```
+## Running the Application
+ 
+Start the development server:
+ 
+```
+npm start
+```
+ 
+The application will open in your default browser. Any changes you make to the source files will automatically reload the application.
+ 
+## Examples
+Explore Syncfusion EJ2 TreeGrid Detail template examples:
+
+https://ej2.syncfusion.com/react/demos/#/fluent2/treegrid/detail-template
+
+https://ej2.syncfusion.com/react/demos/#/fluent2/treegrid/row-template
+
+## Documentation
+ 
+For detailed information and configuration options:
+https://ej2.syncfusion.com/react/documentation/treegrid/row/detail-template
