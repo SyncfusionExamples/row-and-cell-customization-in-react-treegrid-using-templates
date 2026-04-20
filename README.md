@@ -4,7 +4,7 @@
 This quick-start repository demonstrating customize rows and cells in a React TreeGrid using templates. 
 
 ## Overview 
-It includes example code explaining inject custom templates for row details, modify cell content and styles, and apply conditional formatting.
+This sample code demonstrates enhancements to a TreeGrid through custom templates for row and cell rendering, dynamic content and style modifications, and the use of conditional logic to control visual formatting.
 
 ## Features
 - Demonstrates Detail template usage in treegrid
